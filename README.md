@@ -7,6 +7,7 @@
 
 | | |
 |---|---|
+| Demo Video | https://youtu.be/OSbqJtbByps |
 | Live app | https://digitaltwin-neon-phi.vercel.app/login |
 | Backend| `https://digital-twin-dkt6.onrender.com/` |
 | Demo sign-in | username `doctor` / password `VXpEhqS4gz6iOCoZPc` |
