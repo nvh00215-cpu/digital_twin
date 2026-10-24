@@ -12,6 +12,8 @@
 | Demo sign-in | username `doctor` / password `VXpEhqS4gz6iOCoZPc` |
 | GitHub | https://github.com/nvh00215-cpu/digital_twin.git |
 | Team | `Aeternum`, `Naveen V Hiremath` (`Dr. Ambedkar Institute Of Technology`) |
+| Phone Number | 7676191308 |
+| Email id | vhnaveen5@gmail.com |
 
 The free Render API sleeps when idle. Open the health-check link first and wait for `"status":"ok"`. The first wake-up can take about a minute.
 
@@ -68,7 +70,7 @@ Browser -> Next.js server (sign-in, proxy) -> FastAPI + LightGBM -> CSV data + j
 | Models | LightGBM, joblib | One spike classifier, four curve regressors |
 | Data | Synthea CSVs, simulated wearables | Clinic record and 5-minute series |
 
-More in [`docs/architecture.pdf`](docs/architecture.pdf) and [`docs/presentation.pdf`](docs/presentation.pdf).
+More in [`GlycoTwin_ppt.ppt`](GlycoTwin_ppt.ppt) and [`GlycoTwin_Architecture.pdf`](GlycoTwin_Architecture.pdf).
 
 ---
 
